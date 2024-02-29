@@ -13,7 +13,10 @@ Index
     > E2E Ml project using MLflow, Pytorch Lightning, GCP cloud, Docker
 
     - <a href="https://github.com/rahulsm27/ETL_project"> ETL Project  </a>
-    > Data Preprocessing Techniques for ETL using Dask data frame to process 30 Million records
+    > Data Preprocessing Techniques for ETL using Dask data frame to process 3 Million records
+
+    - <a href="https://github.com/rahulsm27/ML_Project_Housing"> House Price Prediction </a>
+    Predict House price using ML regression techniques
 
 -------------------------------------------------------------------------------------------------------
 2. MLOps Projects: Repo containing projects that focus on using specific open-source ML Ops tools. The below repo can be used as a template to incorporate the to0l withing an end-to-end ML project.
