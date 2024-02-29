@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Mahajan</h1>
 <h3 align="center">Learning to master 0's and 1's</h3>
 
+📝 I regularly write articles on [GFG](https://auth.geeksforgeeks.org/user/rahulsm27) webiste on topics related to ML/DL/LLM
+
+ 📫 Reach me **rahulsm.27@gmail.com**
 
 Index
 
@@ -9,14 +12,19 @@ Index
     - <a href="https://github.com/rahulsm27/project_sentiment_analysis">  Tweets Sentiment Analysis </a>
     > E2E Ml project using MLflow, Pytorch Lightning, GCP cloud, Docker
 
+     - <a href="https://github.com/rahulsm27/ETL_project"> ETL Project  </a>
+   > Data Preprocessing Techniques for ETL using Dask data frame to process 30 Million records
+
 -------------------------------------------------------------------------------------------------------
-2. MLOps Projects: Repo containing projects that focus on using specific open source ML Ops tools 
+2. MLOps Projects: Repo containing projects that focus on using specific open-source ML Ops tools 
    - <a href="https://github.com/rahulsm27/project_dvc"> DVC  </a>
     > Use of DVC for versioning data and storing it into GCP cloud storage.
 
    - <a href="https://github.com/rahulsm27/GitHub_Actions "> Github actions  </a>
-    > Use Github actions to auto deploy code on AWS beanstalk
-
+    > Use Github actions to auto-deploy code on AWS Beanstalk
+    
+    -<a href="https://github.com/rahulsm27/machine_learning/blob/main/AutoEDA%20updated.ipynb" > Auto EDA </a>
+    > Using various Auto EDA tools like YDATA PROFILING, AutoViz , Sweetviz, Data prep, Dtale
 -------------------------------------------------------------------------------------------------------
 3. Classical ML Projects: Classical ML algorithm applied to business problems
     -   <a href="https://github.com/rahulsm27/Fraudulent_transaction_Classification"> Fraudulent Transaction Classification  </a>
@@ -42,7 +50,7 @@ Index
    - <a href="https://github.com/rahulsm27/DSA"> Python DSA  </a>
     > Data Structure and algorithms using Python - Basic and advanced level
      
-
+   
 ------------------------------------------------------------------------------------------------------- 
 6. SQL Concepts: SQL concepts required for data analysis
    
@@ -69,9 +77,6 @@ Index
     - <a href="">   </a>
    ->
 
-📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/rahulsm27](https://auth.geeksforgeeks.org/user/rahulsm27)
-
- 📫 Reach me **rahulsm.27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
