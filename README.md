@@ -54,7 +54,7 @@ Index
    
 ------------------------------------------------------------------------------------------------------- 
 5. Python Concepts:  Python concepts required for AI/ML/DS
-   - <a href="Basic_and_Advanced_Python_Concepts">  Basic_and_Advanced_Python_Concepts </a>
+   - <a href="https://github.com/rahulsm27/Basic_and_Advanced_Python_Concepts">  Basic_and_Advanced_Python_Concepts </a>
    > Collection of Python Basic and Advanced Concepts, Programming Questions
 
    - <a href="https://github.com/rahulsm27/DSA"> Python DSA  </a>
@@ -64,7 +64,7 @@ Index
 ------------------------------------------------------------------------------------------------------- 
 6. SQL Concepts: SQL concepts required for data analysis
    
-   - <a href="SQLbasic intermediate and advanced concepts for data analysis"> SQL basic and advanced concept   </a>
+   - <a href="https://github.com/rahulsm27/SQL_Concepts"> SQL basic and advanced concept   </a>
    > Basic intermediate and advanced concepts for data analysis
 
 
@@ -72,7 +72,7 @@ Index
 7. Misc: 
 
    - <a href="https://github.com/rahulsm27/CheatSheets"> CheatSheets  </a>
-     > Collection of good cheatsheets sourced from the internet related to Statistics, ML, Python, SQL
+   > Collection of good cheatsheets sourced from the internet related to Statistics, ML, Python, SQL
   
 
  
