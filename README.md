@@ -2,12 +2,76 @@
 <h3 align="center">Learning to master 0's and 1's</h3>
 
 
+Index
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahulsm27](https://github.com/rahulsm27)
+-------------------------------------------------------------------------------------------------------
+1. End-to-end Machine Learning Projects: Repo containing projects that are built in a production-grade style by using modular coding, code containerization, deployment on cloud technology and open source ML tools.
+    - <a href="https://github.com/rahulsm27/project_sentiment_analysis">  Tweets Sentiment Analysis </a>
+    > E2E Ml project using MLflow, Pytorch Lightning, GCP cloud, Docker
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/rahulsm27](https://auth.geeksforgeeks.org/user/rahulsm27)
+-------------------------------------------------------------------------------------------------------
+2. MLOps Projects: Repo containing projects that focus on using specific open source ML Ops tools 
+   - <a href="https://github.com/rahulsm27/project_dvc"> DVC  </a>
+    > Use of DVC for versioning data and storing it into GCP cloud storage.
 
-- 📫 How to reach me **rahulsm.27@gmail.com**
+   - <a href="https://github.com/rahulsm27/GitHub_Actions "> Github actions  </a>
+    > Use Github actions to auto deploy code on AWS beanstalk
+
+-------------------------------------------------------------------------------------------------------
+3. Classical ML Projects: Classical ML algorithm applied to business problems
+    -   <a href="https://github.com/rahulsm27/Fraudulent_transaction_Classification"> Fraudulent Transaction Classification  </a>
+     > Fraudulent transaction identification using classical ML algorithms like KNN,LR DT,RF,XG
+
+    -   <a href="https://github.com/rahulsm27/Telecom_Case_Study"> Churn Prediction for Telecom Company  </a>
+     > Churn Prediction using Logistic Regression and PCA for a telecom company
+
+   - <a href="https://github.com/rahulsm27/Clustering_RFM"> Customer Segmentation  </a>
+    > RFM analysis + Kmeans Clustering on Customer Invoice data
+
+-------------------------------------------------------------------------------------------------------
+4. Deep Learning Projects: DL algorithms applied to business problems.
+
+   - <a href="https://github.com/rahulsm27/Vehicle_Damage_Image_Classification"> Image Classification  </a>
+   > Image Classification Using Tensorflow framework and Efficient Net model
+   
+------------------------------------------------------------------------------------------------------- 
+5. Python Concepts:  Python concepts required for AI/ML/DS
+   - <a href="Basic_and_Advanced_Python_Concepts">  Basic_and_Advanced_Python_Concepts </a>
+   > Collection of Python Basic and Advanced Concepts, Programming Questions
+
+   - <a href="https://github.com/rahulsm27/DSA"> Python DSA  </a>
+    > Data Structure and algorithms using Python - Basic and advanced level
+     
+
+------------------------------------------------------------------------------------------------------- 
+6. SQL Concepts: SQL concepts required for data analysis
+   
+   - <a href="SQLbasic intermediate and advanced concepts for data analysis"> SQL basic and advanced concept   </a>
+   > Basic intermediate and advanced concepts for data analysis
+
+
+------------------------------------------------------------------------------------------------------- 
+7. Misc: 
+
+   - <a href="https://github.com/rahulsm27/CheatSheets"> CheatSheets  </a>
+     > Collection of good cheatsheets sourced from the internet related to Statistics, ML, Python, SQL
+  
+
+ 
+ 
+  
+
+      - <a href="">   </a>
+   ->
+   - <a href="">   </a>
+   ->
+
+    - <a href="">   </a>
+   ->
+
+📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/rahulsm27](https://auth.geeksforgeeks.org/user/rahulsm27)
+
+ 📫 Reach me **rahulsm.27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
