@@ -19,7 +19,7 @@ Index
     Predict House price using ML regression techniques
 
 -------------------------------------------------------------------------------------------------------
-2. MLOps Projects: Repo containing projects that focus on using specific open-source ML Ops tools. The below repo can be used as a template to incorporate the to0l withing an end-to-end ML project.
+2. MLOps Projects: Repo containing projects that focus on using specific open-source ML Ops tools. The below repo can be used as a template to incorporate the tool within an end-to-end ML project.
    
    - <a href="https://github.com/rahulsm27/ML_GCP_DEPLOY"> MLflow Tracking server</a>
    > Deploy MLflow tracking server on GCP instance with PostgreSQL database and GCP cloud storage as backend
