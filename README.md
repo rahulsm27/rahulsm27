@@ -16,7 +16,7 @@ Index
     > Data Preprocessing Techniques for ETL using Dask data frame to process 3 Million records
 
     - <a href="https://github.com/rahulsm27/ML_Project_Housing"> House Price Prediction </a>
-    Predict House price using ML regression techniques
+    > Predict House price using ML regression techniques
 
 -------------------------------------------------------------------------------------------------------
 2. MLOps Projects: Repo containing projects that focus on using specific open-source ML Ops tools. The below repo can be used as a template to incorporate the tool within an end-to-end ML project.
