@@ -12,8 +12,8 @@ Index
     - <a href="https://github.com/rahulsm27/project_sentiment_analysis">  Tweets Sentiment Analysis </a>
     > E2E Ml project using MLflow, Pytorch Lightning, GCP cloud, Docker
 
-     - <a href="https://github.com/rahulsm27/ETL_project"> ETL Project  </a>
-   > Data Preprocessing Techniques for ETL using Dask data frame to process 30 Million records
+    - <a href="https://github.com/rahulsm27/ETL_project"> ETL Project  </a>
+    > Data Preprocessing Techniques for ETL using Dask data frame to process 30 Million records
 
 -------------------------------------------------------------------------------------------------------
 2. MLOps Projects: Repo containing projects that focus on using specific open-source ML Ops tools 
@@ -23,7 +23,7 @@ Index
    - <a href="https://github.com/rahulsm27/GitHub_Actions "> Github actions  </a>
     > Use Github actions to auto-deploy code on AWS Beanstalk
     
-    -<a href="https://github.com/rahulsm27/machine_learning/blob/main/AutoEDA%20updated.ipynb" > Auto EDA </a>
+    - <a href="https://github.com/rahulsm27/machine_learning/blob/main/AutoEDA%20updated.ipynb" > Auto EDA </a>
     > Using various Auto EDA tools like YDATA PROFILING, AutoViz , Sweetviz, Data prep, Dtale
 -------------------------------------------------------------------------------------------------------
 3. Classical ML Projects: Classical ML algorithm applied to business problems
@@ -69,13 +69,6 @@ Index
  
   
 
-      - <a href="">   </a>
-   ->
-   - <a href="">   </a>
-   ->
-
-    - <a href="">   </a>
-   ->
 
 
 <h3 align="left">Connect with me:</h3>
