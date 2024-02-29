@@ -36,6 +36,9 @@ Index
    - <a href="https://github.com/rahulsm27/Clustering_RFM"> Customer Segmentation  </a>
     > RFM analysis + Kmeans Clustering on Customer Invoice data
 
+    - <a href="https://github.com/rahulsm27/Clustering_Countries"> World countries Segmentation </a>
+    > Clustering of Countries based on their important Economic Parameters
+
 -------------------------------------------------------------------------------------------------------
 4. Deep Learning Projects: DL algorithms applied to business problems.
 
