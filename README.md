@@ -53,7 +53,10 @@ Index
 4. Deep Learning Projects: DL algorithms applied to business problems.
 
    - <a href="https://github.com/rahulsm27/Vehicle_Damage_Image_Classification"> Image Classification  </a>
-   > Image Classification Using Tensorflow framework and Efficient Net model
+   > Image Classification using the Tensorflow framework and Efficient Net model for a vehicle insurance company during claims processing
+
+   - < a href="https://github.com/rahulsm27/ANPR"> ANPR </a>
+   > Automatic Number Plate Recognition (ANPR) system using YOLO (You Only Look Once) for automatic reading of number plate
    
 ------------------------------------------------------------------------------------------------------- 
 5. Python Concepts:  Python concepts required for AI/ML/DS
