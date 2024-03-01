@@ -33,8 +33,7 @@ Index
    - <a href="https://github.com/rahulsm27/GitHub_Actions "> Github actions  </a>
     > Use Github actions to auto-deploy code on AWS Beanstalk
     
-    - <a href="https://github.com/rahulsm27/machine_learning/blob/main/AutoEDA%20updated.ipynb" > Auto EDA </a>
-    > Using various Auto EDA tools like YDATA PROFILING, AutoViz , Sweetviz, Data prep, Dtale
+
 -------------------------------------------------------------------------------------------------------
 3. Classical ML Projects: Classical ML algorithm applied to business problems
     -   <a href="https://github.com/rahulsm27/Fraudulent_transaction_Classification"> Fraudulent Transaction Classification  </a>
@@ -49,6 +48,9 @@ Index
     - <a href="https://github.com/rahulsm27/Clustering_Countries"> World countries Segmentation </a>
     > Clustering of Countries based on their important Economic Parameters
 
+   - <a href="https://github.com/rahulsm27/LLM_Finetune/blob/main/1_AutoEDA.ipynb" > Auto EDA </a>
+    > Using various Auto EDA tools like YDATA PROFILING, AutoViz , Sweetviz, Data prep, Dtale
+
 -------------------------------------------------------------------------------------------------------
 4. Deep Learning Projects: DL algorithms applied to business problems.
 
@@ -57,6 +59,18 @@ Index
 
    - <a href="https://github.com/rahulsm27/ANPR" > ANPR </a>
    > Automatic Number Plate Recognition (ANPR) system using YOLO (You Only Look Once) for automatic reading of number plate
+
+   
+   - <a href="https://github.com/rahulsm27/LLM_Finetune" > Transfer Learning Projects </a>
+   1. DAE -> Use DAE to generate new images
+   2. MCTCT -> Fine tune MCTC model to translate audio to text
+   3. PEFT -> Use PEFT to finetune flan-t5-base model for dialog summarization
+   4. Reinforcement Learning -> Use  open ai gym to train an agent in Taxi-v3 environment
+   5. Semantic Similarity -> Use of DOC2VEC, SBERT, INFERSENT, USE for encoding sentences and prediction similarity score
+   6. SeqtoSeq -> Fine tune whisper model for translating audio to text
+   7. Text Generation -> Implement FNet from scratch for text generation
+   8. Wav2Vec2 -> Use of wav2vec2 model for automatic speech recognition
+   9. Translation -> Translate text from English to Hindi
    
 ------------------------------------------------------------------------------------------------------- 
 5. Python Concepts:  Python concepts required for AI/ML/DS
