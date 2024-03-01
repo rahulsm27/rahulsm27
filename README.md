@@ -27,6 +27,9 @@ Index
    - <a href="https://github.com/rahulsm27/project_dvc"> DVC  </a>
     > Use of DVC for versioning data and storing it into GCP cloud storage.
 
+   - <a href="https://github.com/rahulsm27/Kubernetes_Kubeflow_DaskCluster"> Self Managed Kubernetes + Kubeflow + Dask Cluster</a>
+    > Steps to install self-managed Kubernetes cluster on GCP and then install Kubeflow and Dask Operator. After the infrastructure setup we can use the kubeflow notebook to run distributed training on a dask cluster
+
    - <a href="https://github.com/rahulsm27/GitHub_Actions "> Github actions  </a>
     > Use Github actions to auto-deploy code on AWS Beanstalk
     
