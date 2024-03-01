@@ -67,9 +67,18 @@ Index
    - <a href="https://github.com/rahulsm27/SQL_Concepts"> SQL basic and advanced concept   </a>
    > Basic intermediate and advanced concepts for data analysis
 
+------------------------------------------------------------------------------------------------------- 
+7. GENAI_NOTES : Collection of my personal notes plus documents from the net to understand the working of LLM and LIM
+   
+   - <a href="https://github.com/rahulsm27/GENAI_NOTES"> LLM and LIM Notes  </a>
+   > LIM and LLM documents
+  
+
+ 
+   
 
 ------------------------------------------------------------------------------------------------------- 
-7. Misc: 
+8. CheatSheets: 
 
    - <a href="https://github.com/rahulsm27/CheatSheets"> CheatSheets  </a>
    > Collection of good cheatsheets sourced from the internet related to Statistics, ML, Python, SQL
