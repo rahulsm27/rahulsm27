@@ -17,6 +17,9 @@ Index
 
     - <a href="https://github.com/rahulsm27/ML_Project_Housing"> House Price Prediction </a>
     > Predict House price using ML regression techniques
+    
+    - <a href ="https://github.com/rahulsm27/E2E_ML_VISA_APPROVAL">US Visa Approval </a>
+    > Predict US visa application status using classification algorithms. The code fetches data from the MongoDB database and trains a model. The model is pushed to S3 bucket. The CI/CD pipeline is developed using Github actions. On push to register it triggers docker image development in ECR and deployment on EC2 instance.
 
 -------------------------------------------------------------------------------------------------------
 2. MLOps Projects: Repo containing projects that focus on using specific open-source ML Ops tools. The below repo can be used as a template to incorporate the tool within an end-to-end ML project.
