@@ -78,9 +78,15 @@ Index
       7. Text Generation -> Implement FNet from scratch for text generation
       8. Wav2Vec2 -> Use of wav2vec2 model for automatic speech recognition
       9. Translation -> Translate text from English to Hindi
-   
 ------------------------------------------------------------------------------------------------------- 
-5. Python Concepts:  Python concepts required for AI/ML/DS
+
+
+5. Short Business Case Studies: Case studies on business problems (WIP)
+
+   - <a href ='https://github.com/rahulsm27/Case_Studies'> Case Studies</a.
+   > Collection of good case studies based on real business problems.   
+------------------------------------------------------------------------------------------------------- 
+6. Python Concepts:  Python concepts required for AI/ML/DS
    - <a href="https://github.com/rahulsm27/Basic_and_Advanced_Python_Concepts">  Basic_and_Advanced_Python_Concepts </a>
    > Collection of Python Basic and Advanced Concepts, Programming Questions
 
@@ -89,13 +95,13 @@ Index
      
    
 ------------------------------------------------------------------------------------------------------- 
-6. SQL Concepts: SQL concepts required for data analysis
+7. SQL Concepts: SQL concepts required for data analysis
    
    - <a href="https://github.com/rahulsm27/SQL_Concepts"> SQL basic and advanced concept   </a>
    > Basic intermediate and advanced concepts for data analysis
 
 ------------------------------------------------------------------------------------------------------- 
-7. GENAI_NOTES : Collection of my personal notes plus documents from the net to understand the working of LLM and LIM
+8. GENAI_NOTES : Collection of my personal notes plus documents from the net to understand the working of LLM and LIM
    
    - <a href="https://github.com/rahulsm27/GENAI_NOTES"> LLM and LIM Notes  </a>
    > LIM and LLM documents
@@ -105,7 +111,7 @@ Index
    
 
 ------------------------------------------------------------------------------------------------------- 
-8. CheatSheets: 
+9. CheatSheets: 
 
    - <a href="https://github.com/rahulsm27/CheatSheets"> CheatSheets  </a>
    > Collection of good cheatsheets sourced from the internet related to Statistics, ML, Python, SQL
