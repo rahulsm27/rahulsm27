@@ -64,7 +64,7 @@ Index
    > Automatic Number Plate Recognition (ANPR) system using YOLO (You Only Look Once) for automatic reading of number plate
 
    
-   - <a href ="https://github.com/rahulsm27/LLM_Project"> LLM Project</a>
+   - <a href ="https://github.com/rahulsm27/LLM_Project"> LLM Project </a>
    > Using LLM to build applications like chat with pdf and YouTube video summarizer
 
    - <a href="https://github.com/rahulsm27/LLM_Finetune" > Transfer Learning Projects </a>
