@@ -67,6 +67,15 @@ Index
    - <a href ="https://github.com/rahulsm27/LLM_Project"> LLM Project </a>
    > Using LLM to build applications like chat with pdf and YouTube video summarizer
 
+   - <a href ="https://github.com/rahulsm27/E2E_Object_Detection"> Object Detection for Industry Safety Standards </a>
+   > Using YOLO to detect saftey gears
+
+
+   - <a href ="https://github.com/rahulsm27/Telegram_bot"> Telegram Chatbot </a>
+   > Using LLM to build telegram chatbot
+
+
+
    - <a href="https://github.com/rahulsm27/LLM_Finetune" > Transfer Learning Projects </a>
 
       1. DAE -> Use DAE to generate new images
@@ -83,7 +92,7 @@ Index
 
 5. Short Business Case Studies: Case studies on business problems (WIP)
 
-   - <a href ='https://github.com/rahulsm27/Case_Studies'> Case Studies</a.
+   - <a href ='https://github.com/rahulsm27/Case_Studies'> Case Studies </a>.
    > Collection of good case studies based on real business problems.   
 ------------------------------------------------------------------------------------------------------- 
 6. Python Concepts:  Python concepts required for AI/ML/DS
