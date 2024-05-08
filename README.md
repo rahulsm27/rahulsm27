@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Mahajan</h1>
 <h3 align="center">Learning to master 0's and 1's</h3>
 
-📝 I regularly write articles on [GFG](https://auth.geeksforgeeks.org/user/rahulsm27) webiste on topics related to ML/DL/LLM
+📝 I regularly write articles on [GFG](https://auth.geeksforgeeks.org/user/rahulsm27/articles) webiste on topics related to ML/DL/LLM
 
  📫 Reach me **rahulsm.27@gmail.com**
 
